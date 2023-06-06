@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @neilagonzaleztejada: : Neila González Tejada
+- 👩🏻‍🎓 Recently, I got my PMP® (Project Management Professional) certification by the PMI (Project Management Institute)
 - 👀 I’m interested in consulting in construction management, urban planing and stormwater management.
-- 🌱 I’m currently learning urban nature based solutions, BIM, LEAN Construction, and tech in python, git and R
-- 💞️ I’m looking to collaborate on research and consulting in projects related to construction management, urban planing and stormwater management.
-- 📫 How to reach me: neilagonzaleztejada@gmail.com; https://neilagonzalez.weebly.com
+- 🌱 I’m currently researching about urban nature based solutions.
+- 👩🏻‍💻 I'm currently studing BIM, LEAN Construction, and tech in python, git and R
+- 💞️ I’m looking to collaborate on research and consulting in projects related to construction management, urban planing, stormwater management and Nature Based Solutions.
+- 📫 How to reach me: neilam.gonzalezt@gmail.com; https://neilagonzalez.weebly.com
